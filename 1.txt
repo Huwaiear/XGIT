@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-new row in 1.txt file SEX SEX SEX Xxsaxashahahahah
-=======
-new row in 1.txt file SEX SEX SEX Xxsaxashahahahah
->>>>>>> branch_2
+fix in 1.txt
